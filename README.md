@@ -1,2 +1,4 @@
 # Cs303-Final_Project
-Designed a simple pocket calculator in a digital logic designer and circuit simulator than converted it to verilog
+Designed a simple pocket calculator in digital logic designer and circuit simulator then converted it to verilog
+
+Repo of digital logic designer and circuit simulator https://github.com/hneemann/Digital
